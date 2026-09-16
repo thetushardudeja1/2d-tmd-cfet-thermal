@@ -1,0 +1,13 @@
+# credentials — never commit
+config.txt
+
+# copyrighted literature PDFs — cite, don't redistribute
+papers/
+EDTM/refs/*.pdf
+EDTM/refs/*.xlsx
+
+# OS / editor
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc

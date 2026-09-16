@@ -1,0 +1,6 @@
+host:jump-host.example.edu
+user:your-username
+pwd:your-jump-host-password
+atq:your-target-host-password
+tgt_host:10.0.0.1
+home:/home/your-username
