@@ -2,11 +2,6 @@
 
 Tushar Dudeja, VIT
 
-> **Publication status: under review at IEEE.** A manuscript reporting this work by Tushar Dudeja has been submitted to an IEEE journal and is currently under peer review.
->
-> This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible.
->
-> The figures, tables and summary results here are shared by the authors under IEEE's policy permitting authors to post their own work on a personal website or public repository. Please cite the published article once it appears; until then, contact the authors before reusing any material.
 
 ## Abstract
 
